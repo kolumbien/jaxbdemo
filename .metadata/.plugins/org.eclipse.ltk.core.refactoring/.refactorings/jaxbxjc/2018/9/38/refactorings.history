@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;writer&apos; from expression &apos;new StringWriter()&apos;&#x0D;&#x0A;- Original project: &apos;jaxbxjc&apos;&#x0D;&#x0A;- Variable name: &apos;writer&apos;&#x0D;&#x0A;- Destination method: &apos;com.bharath.trainings.jaxb.JAXBDemo.main()&apos;&#x0D;&#x0A;- Variable expression: &apos;new StringWriter()&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;writer&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;com.bharath.trainings.jaxb{JAXBDemo.java" name="writer" replace="true" selection="559 19" stamp="1537188735383" version="1.0"/>
+</session>
